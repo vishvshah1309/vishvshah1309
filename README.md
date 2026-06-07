@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Vishv Shah 👋
 
-<!--
-**vishvshah1309/vishvshah1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student
 
-Here are some ideas to get you started:
+I am passionate about Cybersecurity, Network Security, and Ethical Hacking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- Cisco Networking Academy - Introduction to Cybersecurity
+
+### Skills
+- Network Security
+- Nmap
+- Wireshark
+- Vulnerability Assessment
+- Packet Analysis
+- TCP/IP Networking
+
+### Projects
+
+#### Nmap Network Security Assessment
+- Performed network reconnaissance
+- Conducted port scanning
+- Identified running services
+- Analyzed security risks
+
+#### Wireshark Packet Analysis
+- Captured network traffic
+- Analyzed TCP, UDP, DNS, and HTTP packets
+- Investigated communication patterns
+- Examined packet headers
+
+### Currently Learning
+- Cybersecurity Fundamentals
+- SOC Operations
+- Network Defense
+- Vulnerability Assessment
+
+### GitHub Projects
+- Nmap Network Security Assessment
+- Wireshark Packet Analysis
+
+### Contact
+Ahmedabad, Gujarat, India
